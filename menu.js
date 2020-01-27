@@ -9,6 +9,9 @@ const menu = `
 	<li>
 		<a href="presentation.html">Présentation</a>
 	</li>
+	<li>
+		<a href="decouverte.html">Découverte</a>
+	</li>
 </ul>
 `
 document.getElementById ("navigation").innerHTML = menu;
